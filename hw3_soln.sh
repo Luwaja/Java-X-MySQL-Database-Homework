@@ -1,5 +1,5 @@
 mysql -u Luwaja -p'MYfeeling23$' <<EOFMYSQL
-use Luwaja;
+use HW4;
 show tables;
 
 DROP TABLE SECTION;
